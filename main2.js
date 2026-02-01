@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", function () {
     var absImg = document.getElementById("absImg");
     absImg.style.display = "flex";
     var mainImg = document.getElementById("mainImg");
-    mainImg.src = "https://github.com/NikhilMarko03/resources/blob/main/happy3.gif?raw=true";
+    mainImg.src = "av.jpg";
   
     images.forEach(function (image) {
       image.src = "https://github.com/NikhilMarko03/resources/blob/main/heart.gif?raw=true";
